@@ -1,0 +1,56 @@
+#home {
+    background-color: rgb(255, 250, 230);
+    border: solid rgb(250, 157, 114);
+    height: 25px; 
+    width: 10%;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}
+#button {
+    color:rgb(250, 157, 114);
+     font-family: Tahoma, sans-serif;
+     font-size: 11px;
+}
+#A {
+    background-image: url("https://static1.squarespace.com/static/5216a57fe4b0cb074c795f85/t/592c793e9f7456f0772fe674/1496086940469/?format=500w");
+    left: 10%;
+}
+#B {
+    background-image: url("https://cff2.earth.com/uploads/2017/09/31200356/Nature-imagery-has-a-calming-effects-on-prisoners-850x500.jpg");
+    left:55%;
+}
+.square {
+    background-position: center;
+    border: 5px solid rgb(255, 250, 230);
+    height: 380px; 
+    width: 35%;
+    position: absolute;
+    top: 205px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    background-color: wheat;
+ }
+ header {
+     color:cornsilk;
+     font-family: Tahoma, sans-serif;
+     font-size: 60px;
+     top: 10px;
+ }
+ #header {
+     background-color: rgb(250, 157, 114);
+     height: 200px;
+     width: 100%;
+     left: 0px;
+     top: 0px;
+
+
+ }
+ #dinfo {
+    color:rgb(255, 250, 230);
+     font-family: Tahoma, sans-serif;
+     font-size: 15px;
+}

@@ -1,0 +1,85 @@
+.click {
+    background-color: firebrick;
+    border: solid red;
+    height: 25px; 
+    width: 10%;
+    position: absolute;
+    left: 10px;
+    text-align: center;
+}
+#home{
+    top: 10px;
+}
+#button {
+    color:white;
+     font-family: Tahoma, sans-serif;
+     font-size: 11px;
+}
+#A {
+    background-image: url("https://checkthis1out.files.wordpress.com/2011/12/bedwell-lake1.jpg");
+    left: 7.5%;
+}
+#B {
+    background-image: url("https://media.cntraveler.com/photos/57211a96fe5fd76f60bc2764/master/w_775,c_limit/deserts-Sahara-cr-GettyImages-74732427.jpg");
+    left:37.5%;
+}
+#C {
+    background-image: url(http://hdwpro.com/wp-content/uploads/2016/01/Awesome-Green-Forest.jpg);
+    left:67.5%;
+}
+.square {
+    background-position: center;
+    border: 5px solid rgb(85, 201, 133);
+    height: 475px; 
+    width: 25%;
+    position: absolute;
+    top: 110px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    background-color:rgb(38, 107, 84);
+ }
+header {
+     color:rgb(103, 223, 133);
+     font-family: Tahoma, sans-serif;
+     font-size: 60px;
+     top: 10px;
+ }
+#header {
+     background-color:rgb(40, 94, 85);
+     height: 200px;
+     width: 100%;
+     left: 0px;
+     top: 0px;
+ }
+ .label {
+    height: 20px; 
+    width: 10%;
+    position: absolute;
+    top: 70px;
+    text-align: center;
+    color:rgb(103, 223, 133);
+    font-family: Tahoma, sans-serif;
+    font-size: 15px;
+}
+#text1 {
+    position: absolute;
+    left: 250px;
+}
+#text2 {
+    position: absolute;
+    left: 640px;
+}
+#text3 {
+    height: 20px; 
+    width: 10%;
+    position: absolute;
+    top: 70px;
+    text-align: center;
+    color:rgb(103, 223, 133);
+    font-family: Tahoma, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 1030px;
+}

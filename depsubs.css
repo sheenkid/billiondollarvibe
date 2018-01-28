@@ -1,0 +1,57 @@
+.click {
+    background-color: rgb(255, 250, 230);
+    border: solid rgb(250, 157, 114);;
+    height: 25px; 
+    width: 10%;
+    position: absolute;
+    left: 10px;
+    text-align: center;
+}
+#home{
+    top: 10px;
+}
+#back {
+    top: 40px;
+}
+#button {
+    color:rgb(250, 157, 114);
+     font-family: Tahoma, sans-serif;
+     font-size: 11px;
+}
+#pageback {
+    color:rgb(250, 157, 114);
+     font-family: Tahoma, sans-serif;
+     font-size: 11px;
+}
+body {
+    background-color: wheat;
+ }
+ header {
+     color:cornsilk;
+     font-family: Tahoma, sans-serif;
+     font-size: 60px;
+     top: 10px;
+ }
+ #header {
+     background-color: rgb(250, 157, 114);
+     height: 200px;
+     width: 100%;
+     left: 0px;
+     top: 0px;
+
+
+ }
+ #dinfo {
+    color:rgb(255, 250, 230);
+     font-family: Tahoma, sans-serif;
+     font-size: 15px;
+}
+#pic {
+    height: 260px;
+
+}
+#video {
+    position: absolute;
+    left: 30%;
+    top: 220px;
+}
